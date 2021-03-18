@@ -27,9 +27,9 @@ namespace PrimeraClase.LibreriaClases
         {
             bool flag = false;
             string operadores = "+-*/";
-            //test
 
-            if (string.Compare(valor, operadores) >= 0)
+            //validamos que el operador ingresado está dentro de los valores previstos
+            if (operadores.Contains(valor))
             {
                 flag = true;
             }
