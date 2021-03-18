@@ -35,5 +35,30 @@ namespace PrimeraClase.LibreriaClases
             }
             return flag;
         }
+
+        public static void Operacion(int valor1, int valor2, string operador, out string resultado)
+        {
+            resultado = "";
+            int resultado_aux=0;
+            switch(operador)
+            {
+                case "+":
+                    resultado_aux = valor1 + valor2;
+                    break;
+                case "-":
+                    resultado_aux = valor1 - valor2;
+                    break;
+                case "*":
+                    resultado_aux = valor1 * valor2;
+                    break;
+                case "/":
+                    resultado_aux = valor1 / valor2;
+                    break;
+                default:
+                    resultado = "Operación no identificada.";
+                    break;
+            }
+            resultado = Convert.ToString(resultado_aux);
+        }
     }
 }

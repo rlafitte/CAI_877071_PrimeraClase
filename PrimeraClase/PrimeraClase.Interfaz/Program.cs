@@ -23,29 +23,45 @@ namespace PrimeraClase.Interfaz
             // Consola viva, el programa no se puede terminar a menos que el usuario ingrese una X
 
             string s_nro1 = "";
+            int i_nro1 = 0;
             string s_nro2 = "";
+            int i_nro2 = 0;
             string s_ope = "";
+            string s_res = "";
 
             do
             {
-                Console.WriteLine("Por favor ingrese un número:");
-                s_nro1 = Console.ReadLine();
-            } while (!Class1.ValidaNumero(s_nro1));
+                  do
+                  {
+                      Console.WriteLine("Por favor ingrese un número:");
+                      s_nro1 = Console.ReadLine();
+                  } while (!Class1.ValidaNumero(s_nro1));
+                i_nro1 = Convert.ToInt32(s_nro1);
 
-            do
-            {
-                Console.WriteLine("Por favor ingrese otro número:");
-                s_nro2 = Console.ReadLine();
-            } while (!Class1.ValidaNumero(s_nro2));
 
-            do
-            {
-                Console.WriteLine("Por favor ingrese un operador:");
-                s_ope = Console.ReadLine();
+                  do
+                  {
+                      Console.WriteLine("Por favor ingrese otro número:");
+                      s_nro2 = Console.ReadLine();
+                  } while (!Class1.ValidaNumero(s_nro2));
+                i_nro2 = Convert.ToInt32(s_nro2);
 
-            } while (!Class1.ValidaOperador(s_ope));
+                do
+                  {
+                      Console.WriteLine("Por favor ingrese un operador:");
+                      s_ope = Console.ReadLine();
 
-            Console.ReadKey();
+                  } while (!Class1.ValidaOperador(s_ope));
+
+                Class1.Operacion(i_nro1, i_nro2, s_ope, out s_res);
+
+                Console.WriteLine("El resultado final es: " + s_res);
+
+                Console.WriteLine("Para finalizar presione 'X'");
+
+            } while (Console.ReadKey().Key != ConsoleKey.X);
+
+            
         }
     }
 }
