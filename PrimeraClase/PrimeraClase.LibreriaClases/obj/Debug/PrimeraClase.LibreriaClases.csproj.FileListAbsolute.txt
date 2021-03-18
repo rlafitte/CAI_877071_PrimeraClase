@@ -1,0 +1,6 @@
+C:\Users\renar\Desktop\CAI\PrimeraClase\CAI_877071_PrimeraClase\PrimeraClase\PrimeraClase.LibreriaClases\bin\Debug\PrimeraClase.LibreriaClases.dll
+C:\Users\renar\Desktop\CAI\PrimeraClase\CAI_877071_PrimeraClase\PrimeraClase\PrimeraClase.LibreriaClases\bin\Debug\PrimeraClase.LibreriaClases.pdb
+C:\Users\renar\Desktop\CAI\PrimeraClase\CAI_877071_PrimeraClase\PrimeraClase\PrimeraClase.LibreriaClases\obj\Debug\PrimeraClase.LibreriaClases.csprojAssemblyReference.cache
+C:\Users\renar\Desktop\CAI\PrimeraClase\CAI_877071_PrimeraClase\PrimeraClase\PrimeraClase.LibreriaClases\obj\Debug\PrimeraClase.LibreriaClases.csproj.CoreCompileInputs.cache
+C:\Users\renar\Desktop\CAI\PrimeraClase\CAI_877071_PrimeraClase\PrimeraClase\PrimeraClase.LibreriaClases\obj\Debug\PrimeraClase.LibreriaClases.dll
+C:\Users\renar\Desktop\CAI\PrimeraClase\CAI_877071_PrimeraClase\PrimeraClase\PrimeraClase.LibreriaClases\obj\Debug\PrimeraClase.LibreriaClases.pdb

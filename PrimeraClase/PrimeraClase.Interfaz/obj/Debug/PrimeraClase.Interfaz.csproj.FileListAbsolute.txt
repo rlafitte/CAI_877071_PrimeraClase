@@ -1,0 +1,10 @@
+C:\Users\renar\Desktop\CAI\PrimeraClase\CAI_877071_PrimeraClase\PrimeraClase\PrimeraClase.Interfaz\bin\Debug\PrimeraClase.Interfaz.exe.config
+C:\Users\renar\Desktop\CAI\PrimeraClase\CAI_877071_PrimeraClase\PrimeraClase\PrimeraClase.Interfaz\bin\Debug\PrimeraClase.Interfaz.exe
+C:\Users\renar\Desktop\CAI\PrimeraClase\CAI_877071_PrimeraClase\PrimeraClase\PrimeraClase.Interfaz\bin\Debug\PrimeraClase.Interfaz.pdb
+C:\Users\renar\Desktop\CAI\PrimeraClase\CAI_877071_PrimeraClase\PrimeraClase\PrimeraClase.Interfaz\bin\Debug\PrimeraClase.LibreriaClases.dll
+C:\Users\renar\Desktop\CAI\PrimeraClase\CAI_877071_PrimeraClase\PrimeraClase\PrimeraClase.Interfaz\bin\Debug\PrimeraClase.LibreriaClases.pdb
+C:\Users\renar\Desktop\CAI\PrimeraClase\CAI_877071_PrimeraClase\PrimeraClase\PrimeraClase.Interfaz\obj\Debug\PrimeraClase.Interfaz.csprojAssemblyReference.cache
+C:\Users\renar\Desktop\CAI\PrimeraClase\CAI_877071_PrimeraClase\PrimeraClase\PrimeraClase.Interfaz\obj\Debug\PrimeraClase.Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\renar\Desktop\CAI\PrimeraClase\CAI_877071_PrimeraClase\PrimeraClase\PrimeraClase.Interfaz\obj\Debug\PrimeraClase.Interfaz.csproj.CopyComplete
+C:\Users\renar\Desktop\CAI\PrimeraClase\CAI_877071_PrimeraClase\PrimeraClase\PrimeraClase.Interfaz\obj\Debug\PrimeraClase.Interfaz.exe
+C:\Users\renar\Desktop\CAI\PrimeraClase\CAI_877071_PrimeraClase\PrimeraClase\PrimeraClase.Interfaz\obj\Debug\PrimeraClase.Interfaz.pdb
